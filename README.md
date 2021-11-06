@@ -5,6 +5,6 @@
 My [Simplelearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy) machine learning projects.
 
 | Title | Description |
-|:----------|:-------------|
+|:------------------|:-------------|
 | [Machine Learning](https://github.com/lisasheniii/AI-Summer-Camp/tree/main/Machine%20Learning) | K-mean/KNN, Decision Tree, Random Forest, Logistic Regression, Super Vector Machine, Naive Bayes |
-| Deep Learning | Tensor Flow, ANN, CNN, RNN |
+| [Deep Learning](https://github.com/lisasheniii/AI-Summer-Camp/tree/main/Machine%20Learning) | Tensor Flow, ANN, CNN, RNN |
